@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/elisartix/count.svg" alt="visitor counter" />
+  <img src="https://profile-counter.glitch.me/elisartix_new/count.svg" alt="visitor counter" />
 </p>

@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://roadmap.sh" target="_blank">
-    <img src="https://api.roadmap.sh/v1-badge/tall/64fcd6675ce9f4ca58aabd03?variant=dark" alt="roadmap badge" />
+    <img src="https://api.roadmap.sh/v1-badge/tall/686305f71ed6bc62a2b29629?variant=dark" alt="roadmap badge" />
   </a>
 </p>
 

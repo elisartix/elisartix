@@ -1,8 +1,8 @@
 <!-- GitHub Profile README | formal markdown style -->
-<h1 align="center">Привет — я ElisArt 👋</h1>
+<h1 align="center">я - ElisArt 👋</h1>
 
 <p align="center">
-  Software & Reverse Engineer.<br/>
+  Vibecoder)).<br/>
   Специализируюсь на Python/C++, занимаюсь cheatdev и практикую вайбкодинг.
 </p>
 

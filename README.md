@@ -10,21 +10,12 @@
 
 ### 📝 Обо мне
 
-- 🔍 Увлекаюсь реверс-инжинирингом (IDA Pro, Unreal Engine 5, il2cpp). Люблю разбирать игры и софт на винтики.
-- ⚙️ Пишу на Python и C++, основной фокус — cheatdev, создание кастомных модов и разработка тулзов для автоматизации.
-- 🌌 Вайбкодинг — пишу нестандартный код для души и эстетики, кайфую от самого процесса разработки.
-- 🐍 Есть опыт в QA и бэкенде, периодически ковыряю frontend и настраиваю сложные сетевые среды.
-- 📚 Сейчас параллельно прокачиваюсь в ML и MLOps.
+- 🔍 Увлекаюсь проф. вайбкодингои, изучаб реверс
+- ⚙️ Пишу на Python и C++
+- 🌌 Не скрываю что использую агентов
+- 🐍 Есть опыт в QA и бэкенде, изредка фронт
+- 📚 В данный момент изучаю реверс
 - 🎯 Открыт к коллаборациям в интересных и нестандартных проектах.
-
----
-
-### 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elisartix&show_icons=true&theme=dracula&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisartix&layout=compact&langs_count=8&theme=dracula" height="165" />
-</p>
 
 ---
 
@@ -43,13 +34,7 @@
 
 ---
 
-### 📚 Что изучаю сейчас
 
-<p align="center">
-  <a href="https://roadmap.sh" target="_blank">
-    <img src="https://roadmap.sh/card/tall/6863057a1ed6bc62a2b28a6e?variant=dark" alt="roadmap.sh" />
-  </a>
-</p>
 
 ---
 

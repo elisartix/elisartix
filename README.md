@@ -1,19 +1,21 @@
 <!-- GitHub Profile README | formal markdown style -->
-<h1 align="center">Привет — я Елисей 👋</h1>
+<h1 align="center">Привет — я ElisArt 👋</h1>
 
 <p align="center">
-  QA‑инженер и разработчик из&nbsp;России.<br/>
-  Интересуюсь автоматизацией тестирования, Python‑стеком и&nbsp;интеграцией ИИ‑решений.
+  Software & Reverse Engineer.<br/>
+  Специализируюсь на Python/C++, занимаюсь cheatdev и практикую вайбкодинг.
 </p>
 
 ---
 
-### 📝 О&nbsp;мне
+### 📝 Обо мне
 
-- 🔍 Проверяю качество ПО и&nbsp;нахожу баги до релиза.
-- ⚙️ Пишу Python‑скрипты и backend‑сервисы, пару раз залезал во frondend.
-- 📚 Сейчас прокачиваюсь в ML и MLOps.
-- 🎯 Открыт к коллаборациям на интересных проектах.
+- 🔍 Увлекаюсь реверс-инжинирингом (IDA Pro, Unreal Engine 5, il2cpp). Люблю разбирать игры и софт на винтики.
+- ⚙️ Пишу на Python и C++, основной фокус — cheatdev, создание кастомных модов и разработка тулзов для автоматизации.
+- 🌌 Вайбкодинг — пишу нестандартный код для души и эстетики, кайфую от самого процесса разработки.
+- 🐍 Есть опыт в QA и бэкенде, периодически ковыряю frontend и настраиваю сложные сетевые среды.
+- 📚 Сейчас параллельно прокачиваюсь в ML и MLOps.
+- 🎯 Открыт к коллаборациям в интересных и нестандартных проектах.
 
 ---
 
@@ -26,16 +28,17 @@
 
 ---
 
-### 🚀 Технологии и&nbsp;инструменты
+### 🚀 Технологии и инструменты
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </p>
 
 ---
@@ -50,7 +53,7 @@
 
 ---
 
-### 📫 Связаться со мной
+### 📫 Связаться со мной
 
 <p align="center">
   <a href="https://t.me/elisartix" target="_blank">

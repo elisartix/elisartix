@@ -46,6 +46,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/elisartix_new/count.svg" alt="visitor counter" />
-</p>
